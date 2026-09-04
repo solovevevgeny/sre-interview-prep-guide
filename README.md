@@ -14,7 +14,7 @@
 
 ### Boot Process
 
-- [ ] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
+- [x] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 - [ ] [What happens when we turn on computer?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/)
 - [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
@@ -49,8 +49,8 @@
 
 - [ ] [Linux troubleshooting tools](https://syedali.net/2013/08/20/linux-troubleshooting-tools)
 - [ ] [Linux Performance Analysis in 60,000 Milliseconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
-- [ ] [strace](https://www.dedoimedo.com/computers/strace.html)
-- [ ] [lsof](https://www.dedoimedo.com/computers/lsof.html)
+- [x] ~~[strace](https://www.dedoimedo.com/computers/strace.html)~~
+- [x] ~~[lsof](https://www.dedoimedo.com/computers/lsof.html)~~
 - [ ] [Linux system debugging](https://www.dedoimedo.com/computers/linux-system-debugging-super.html)
 - [ ] [SaaS where users can test their Linux troubleshooting skills](https://sadservers.com)
 
