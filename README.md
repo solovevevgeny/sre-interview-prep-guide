@@ -267,35 +267,6 @@
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
 - [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
 - [ ] [DevOps Career Path](https://www.scaler.com/blog/devops-career-path/)
-- [ ] [Key DevOps Engineer Skills You Need in 2024](https://www.scaler.com/blog/devops-engineer-skills/)
+- [x] [Key DevOps Engineer Skills You Need in 2024](https://www.scaler.com/blog/devops-engineer-skills/)
 
-## Books
-
-### SRE books
-
-- [ ] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents)
-- [ ] [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents)
-- [ ] [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
-- [ ] [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems)
-- [ ] [Implementing Service Level Objectives](https://learning.oreilly.com/library/view/implementing-service-level/9781492076803)
-
-### Linux
-
-- [ ] [Linux Kernel Development (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
-- [ ] [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
-- [ ] [Linux Pocket Guide, 3rd Edition](http://shop.oreilly.com/product/0636920040927.do)
-
-### Networking
-
-- [ ] [TCP/IP Illustrated, Volume 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
-
-### Troubleshooting and Performance
-
-- [ ] [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
-- [ ] [Systems Performance, 2nd Edition](https://www.informit.com/store/systems-performance-9780136820154?ranMID=24808)
-
-## Courses
-
-- [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
-- [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
 
