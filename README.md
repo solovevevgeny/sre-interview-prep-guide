@@ -1,9 +1,44 @@
-# Site Reliability Engineer (SRE) Interview Preparation Guide
+### Interview Questions
 
-## Basics
-- [x] ~~Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)~~
-- [x] ~~Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)~~
-- [x] ~~[Processes and Threads](https://planetscale.com/blog/processes-and-threads)~~
+- [ ] [A collection of questions to practice with for SRE interviews](https://github.com/michael-kehoe/sre-interview)
+- [ ] [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
+- [ ] [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
+- [ ] [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
+- [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
+- [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
+- [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+- [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
+
+## Processes
+
+- [ ] [The practical guide to incident management](https://incident.io/guide)
+- [ ] [Incident Response](https://response.pagerduty.com)
+- [ ] [Postmortems](https://postmortems.pagerduty.com)
+- [ ] [Runbooks](https://web.archive.org/web/20231005015754/https://www.transposit.com/devops-blog/itsm/what-makes-a-good-runbook)
+- [ ] [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
+- [ ] [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
+- [ ] [SRE at Google: Our complete list of CRE life lessons](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)
+- [ ] [Incident Management vs. Incident Response - What's the Difference?](https://rootly.io/blog/incident-management-vs-incident-response-what-s-the-difference)
+- [ ] [Practical Guide to SRE: Using SLOs to Increase Reliability](https://rootly.io/blog/practical-guide-to-sre-using-slos-to-increase-reliability)
+- [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
+- [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
+- [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
+- [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
+- [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
+- [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
+- [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
+- [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
+- [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
+- [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
+- [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
+- [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
+- [ ] [Starting SRE at startups and smaller organizations](https://www.srepath.com/starting-sre-at-startups-and-smaller-organizations)
+- [ ] [Things That Makes a Good Site Reliability Engineer](https://reliabilityengineering.substack.com/p/things-that-makes-a-good-site-reliability)
+- [ ] [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
+
+
+
+# Site Reliability Engineer (SRE) Interview Preparation Guide
 
 ## Linux
 
@@ -11,14 +46,6 @@
 - [ ] [What every SRE should know about GNU/Linux shell related internals: file descriptors, pipes, terminals, user sessions, process groups and daemons](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons)
 - [ ] [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre)
 - [ ] [Linux Internals workshop - Google TechTalks](https://www.youtube.com/playlist?list=PLSIUOFhnxEiC3YTdxwqZqgEY5imVL8U8J)
-
-### Boot Process
-
-- [x] ~~[How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)~~
-- [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
-- [ ] [What happens when we turn on computer?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/)
-- [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
-- [ ] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
 
 ### Filesystem
 
@@ -129,40 +156,9 @@
 - [ ] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
 
-## Programming
-
 ### Git
 
 - [ ] [Useful git commands for SRE and DevOps engineers](https://reliabilityengineering.substack.com/p/useful-git-commands-for-sre-and-devops)
-
-### Python
-
-- [ ] [Python Basics](https://pythonbasics.org/)
-- [ ] [Python For Everyone](https://www.py4e.com/)
-- [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)
-
-### Go (Golang)
-
-- [ ] [A tour of Go](https://tour.golang.org)
-- [ ] [Go by Example](https://gobyexample.com)
-- [ ] [Go Tutorials & Examples](https://gosamples.dev)
-- [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-- [ ] [Getting up and running with Go](http://www.golangprograms.com)
-- [ ] [Effective Go](https://golang.org/doc/effective_go.html)
-- [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
-- [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
-- [ ] [Style Guide](https://google.github.io/styleguide/go/guide)
-- [ ] [Style Decisions](https://google.github.io/styleguide/go/decisions)
-- [ ] [Best Practices](https://google.github.io/styleguide/go/best-practices)
-- [ ] [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
-
-### Big O Notation, Algorithms and Data Structures
-
-- [ ] [AlgoExpert](https://www.algoexpert.io)
-- [ ] [Hacking a Google Interview – Handout 1](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
-- [ ] [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
-- [ ] [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
-- [ ] [Big O](https://samwho.dev/big-o)
 
 ## System design
 
@@ -206,54 +202,16 @@
 - [ ] [How Prometheus Querying Works](https://www.timescale.com/blog/how-prometheus-querying-works-and-why-you-should-care)
 - [ ] [PromQL Cheat Sheet](https://promlabs.com/promql-cheat-sheet)
 
-## Processes
-
-- [ ] [The practical guide to incident management](https://incident.io/guide)
-- [ ] [Incident Response](https://response.pagerduty.com)
-- [ ] [Postmortems](https://postmortems.pagerduty.com)
-- [ ] [Runbooks](https://web.archive.org/web/20231005015754/https://www.transposit.com/devops-blog/itsm/what-makes-a-good-runbook)
-- [ ] [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
-- [ ] [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
-- [ ] [SRE at Google: Our complete list of CRE life lessons](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)
-- [ ] [Incident Management vs. Incident Response - What's the Difference?](https://rootly.io/blog/incident-management-vs-incident-response-what-s-the-difference)
-- [ ] [Practical Guide to SRE: Using SLOs to Increase Reliability](https://rootly.io/blog/practical-guide-to-sre-using-slos-to-increase-reliability)
-- [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
-- [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
-- [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
-- [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
-- [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
-- [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
-- [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
-- [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
-- [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
-- [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
-- [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
-- [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
-- [ ] [Starting SRE at startups and smaller organizations](https://www.srepath.com/starting-sre-at-startups-and-smaller-organizations)
-- [ ] [Things That Makes a Good Site Reliability Engineer](https://reliabilityengineering.substack.com/p/things-that-makes-a-good-site-reliability)
-- [ ] [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
-
-## Resume
-
-- [ ] [SRE Complete Resume Writing Guide](https://rootly.com/blog/sre-complete-resume-writing-guide)
-
-## Interview
-
 ### SRE interview process
 
 - [ ] [How to hire talent](https://syedali.net/2014/04/01/how-to-hire-talent)
 - [ ] [Recruitment process for a Google job (SRE, Site Reliability Engineer)](https://web.archive.org/web/20220328124724/http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer)
 
-### Interview Questions
+## Basics
+- [x] ~~Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)~~
+- [x] ~~Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)~~
+- [x] ~~[Processes and Threads](https://planetscale.com/blog/processes-and-threads)~~
 
-- [ ] [A collection of questions to practice with for SRE interviews](https://github.com/michael-kehoe/sre-interview)
-- [ ] [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
-- [ ] [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
-- [ ] [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
-- [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
-- [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
-- [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
-- [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
 
 ### Blogposts
 
@@ -265,7 +223,7 @@
 - [ ] [Becoming a Site Reliability Engineer](https://www.tik.dev/blog/becoming-an-sre)
 - [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
-- [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
+- [x] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
 - [ ] [DevOps Career Path](https://www.scaler.com/blog/devops-career-path/)
 - [x] [Key DevOps Engineer Skills You Need in 2024](https://www.scaler.com/blog/devops-engineer-skills/)
 
